@@ -1,10 +1,10 @@
 # First
 ### 이 코드는 김익수 교수님과 함께하는 숭실대학교 컴퓨터학부의 컴퓨터 학개론 수업입니다.
-## 첫번쨰 작업
+## 첫번째 작업
 ### TESt
   - list1
   - list2
 
-[네이버].https://naver.com
+[네이버]:https://naver.com
 
-[나의 velog].https://velog.io/@cromnext/posts
+[나의 velog]:https://velog.io/@cromnext/posts
